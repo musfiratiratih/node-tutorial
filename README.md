@@ -3,6 +3,12 @@ Repo ini berisi list materi Tutorial NodeJS
 
 ## TODO
 
+1. **Instalasi Node.js**: Membahasa cara install Node.js spesifik di sistem operasi Windows.
+
+1. **Instalasi Code Editor**: Membahas cara install code editor untuk memudahkan kita dalam menulis sebuah program. Code editor yang digunakan lebih spesifik menggunakan Visual Studio Code (VSCode)
+
+1. **Hello World!**: Mulai menulis kode klasi "Hello World"
+
 1. **Mengenal Modul Core Node.js**: Membahas modul-modul inti dalam Node.js seperti `fs` (file system), `http` (HTTP server), dan `events` (event emitter). Ini akan membantu memahami cara Node.js bekerja di tingkat yang lebih dalam.
 
 2. **Pengenalan Asynchronous Programming**: Memahami konsep dasar asynchronous programming di Node.js dengan menggunakan callback, promise, dan async/await. Ini penting karena Node.js menggunakan pola pemrograman ini secara luas.
